@@ -1,0 +1,6 @@
+3)
+A) Reverse-i-search is used to find all past commands(command history).
+B) "ls -a" command is used to list out all hidden directories in linux.
+C) I am well versed in using linux based OS, as previously I used ubuntu as my main OS.
+D) Yes, I used Apache web server and Apache Tomcat server to host web applications.
+ 
